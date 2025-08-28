@@ -28,7 +28,6 @@
 #### **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### **Frontend**
@@ -80,4 +79,3 @@
 </p>
 
 ---
-⭐ **Pro Tip:** Keep contributing regularly and push at least 3–4 commits per week to make your profile stand out!
