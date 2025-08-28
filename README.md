@@ -5,7 +5,7 @@
   <a href="https://github.com/sukumar-cloud">
     <img src="https://komarev.com/ghpvc/?username=sukumar-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/sukumar-r-a-b83b7429b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:sukumaramaravathi@gmail.com">
