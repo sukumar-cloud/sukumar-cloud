@@ -22,21 +22,28 @@
 
 ### 🪄 About Me
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=450&lines=💻+Full+Stack+Developer+In+Progress;🌱+Learning+Spring+Boot+%26+Django;🚀+Building+Scalable+Web+Apps;⚡+Open+to+Software+Internship+Opportunities" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer+In+Progress;☕+Spring+Boot+Backend+Engineer;🚀+Building+Scalable+Web+Apps;⚡+Open+to+Software+Internship+Opportunities" alt="Typing Animation" />
 </div>
 
 🎓 **Final-year Computer Science student** at *East West Institute of Technology (CGPA: 9.01)*  
-💻 Passionate about **Full Stack Web Development** & **Problem Solving**  
-🚀 Experienced with **React**, **Spring Boot (Basics)**, **Node.js**, **MongoDB**, and **MySQL**  
-🏆 Placed **6th in a 24-hour Hackathon**  
-🎯 Seeking **Software Development Internship** opportunities  
+💻 Passionate about **Full Stack Development**, **API Design**, and **Microservices**  
+🚀 Skilled with **React**, **Spring Boot**, **Node.js**, **MongoDB**, and **MySQL**  
+🏆 Achieved **6th place** in a **24-hour Hackathon**  
+🎯 Actively seeking **Software Development Internship** opportunities  
 
 ---
 
 ### 🧠 Currently Exploring
-🧩 Personalized News Aggregator (React + TypeScript + Django API)  
-☁️ Firebase Cloud Messaging for Real-time Notifications  
-⚙️ Microservices & Containerization using Docker and Render  
+
+<p align="center">
+  <img src="https://github.com/sukumar-cloud/sukumar-cloud/assets/your-id/spring-boot-glow.gif" width="220" alt="Glowing Spring Boot Logo"/>
+</p>
+
+- ⚙️ Developing **Spring Boot Applications** with RESTful APIs  
+- 🧩 Integrating **MySQL, MongoDB, and ClickHouse** for hybrid backends  
+- 🔐 Implementing **JWT Authentication** and **Role-based Access**  
+- ☁️ Deploying microservices using **Docker**, **Render**, and **Netlify**  
+- 📬 Building **Email & Push Notifications** using **Firebase Cloud Messaging (FCM)**  
 
 ---
 
@@ -52,9 +59,9 @@
 
 | 🚀 Project | ⚙️ Tech Stack | 📝 Description |
 |-------------|---------------|----------------|
-| [**Data Ingestion Tool**](https://data-ingestion-tool.netlify.app/) | Spring Boot • ClickHouse • AngularJS | CSV → ClickHouse ingestion with preview, JWT, and batch inserts. |
-| [**Book Review Platform**](https://github.com/sukumar-cloud/book-review-platform) | React • Node.js • MongoDB | Full-stack CRUD app with JWT, search, and pagination. |
-| [**Digital Library Management**](https://github.com/sukumar-cloud/library-management) | Java Swing • JDBC • MySQL | Desktop CRUD app with Dockerized database and Maven automation. |
+| [**Data Ingestion Tool**](https://data-ingestion-tool.netlify.app/) | Spring Boot • ClickHouse • AngularJS | Web app to ingest CSV data into ClickHouse with JWT auth & batch inserts. |
+| [**Book Review Platform**](https://github.com/sukumar-cloud/book-review-platform) | React • Node.js • MongoDB | Full-stack app with JWT, CRUD, and filtering system for book reviews. |
+| [**Digital Library Management**](https://github.com/sukumar-cloud/library-management) | Java Swing • JDBC • MySQL | Desktop CRUD app with Docker & Maven automation for libraries. |
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="coding animation"/>
@@ -80,10 +87,10 @@
 ---
 
 ### 🎯 2025 Goals
-- 💼 Land a **Software Developer Internship / SDE role**  
-- 📚 Contribute to **Open Source** (Spring Boot / React projects)  
-- ☁️ Master **Django REST Framework** & **Firebase Cloud Messaging**  
-- 🚀 Deploy microservices with **Render, Docker, and Netlify**  
+- 💼 Secure a **Software Developer Internship / SDE Role**  
+- 🧠 Contribute to **Open Source Projects (Spring Boot & React)**  
+- ☁️ Master **Cloud Deployments** with Docker & Render  
+- 📚 Learn **System Design** and **Clean Architecture** principles  
 
 ---
 
