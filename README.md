@@ -21,36 +21,52 @@
 ---
 
 ### 🪄 About Me
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer+In+Progress;☕+Spring+Boot+Backend+Engineer;🚀+Building+Scalable+Web+Apps;⚡+Open+to+Software+Internship+Opportunities" alt="Typing Animation" />
-</div>
-
 🎓 **Final-year Computer Science student** at *East West Institute of Technology (CGPA: 9.01)*  
-💻 Passionate about **Full Stack Development**, **API Design**, and **Microservices**  
-🚀 Skilled with **React**, **Spring Boot**, **Node.js**, **MongoDB**, and **MySQL**  
-🏆 Achieved **6th place** in a **24-hour Hackathon**  
+💻 Passionate about **Full Stack Web Development** & **API Design**  
+🚀 Skilled in **React**, **Spring Boot**, **Node.js**, **MongoDB**, and **MySQL**  
+🏆 Achieved **6th place** in a 24-hour Hackathon  
 🎯 Actively seeking **Software Development Internship** opportunities  
 
 ---
 
 ### 🧠 Currently Exploring
-
 <p align="center">
   <img src="https://github.com/sukumar-cloud/sukumar-cloud/assets/your-id/spring-boot-glow.gif" width="220" alt="Glowing Spring Boot Logo"/>
 </p>
 
-- ⚙️ Developing **Spring Boot Applications** with RESTful APIs  
-- 🧩 Integrating **MySQL, MongoDB, and ClickHouse** for hybrid backends  
-- 🔐 Implementing **JWT Authentication** and **Role-based Access**  
+- ⚙️ Building **Spring Boot Applications** with REST APIs  
+- 🧩 Integrating **MySQL, MongoDB, and ClickHouse** in hybrid backends  
+- 🔐 Adding **JWT Authentication** and **Role-based Access**  
 - ☁️ Deploying microservices using **Docker**, **Render**, and **Netlify**  
-- 📬 Building **Email & Push Notifications** using **Firebase Cloud Messaging (FCM)**  
+- 📬 Implementing **Email & Push Notifications** with **Firebase Cloud Messaging (FCM)**  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 
+#### 💻 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,angular,nodejs,express,spring,mysql,mongodb,clickhouse,docker,postman,git,github,netlify,render&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark" />
+</p>
+
+#### ⚙️ Frontend Development  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind&theme=dark" />
+</p>
+
+#### 🖥️ Backend Development  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django&theme=dark" />
+</p>
+
+#### 🗄️ Databases & Cloud  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,clickhouse,firebase&theme=dark" />
+</p>
+
+#### 🧰 Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,netlify,render,vscode&theme=dark" />
 </p>
 
 ---
@@ -60,8 +76,8 @@
 | 🚀 Project | ⚙️ Tech Stack | 📝 Description |
 |-------------|---------------|----------------|
 | [**Data Ingestion Tool**](https://data-ingestion-tool.netlify.app/) | Spring Boot • ClickHouse • AngularJS | Web app to ingest CSV data into ClickHouse with JWT auth & batch inserts. |
-| [**Book Review Platform**](https://github.com/sukumar-cloud/book-review-platform) | React • Node.js • MongoDB | Full-stack app with JWT, CRUD, and filtering system for book reviews. |
-| [**Digital Library Management**](https://github.com/sukumar-cloud/library-management) | Java Swing • JDBC • MySQL | Desktop CRUD app with Docker & Maven automation for libraries. |
+| [**Book Review Platform**](https://github.com/sukumar-cloud/book-review-platform) | React • Node.js • MongoDB | Full-stack CRUD app with JWT, search, and pagination. |
+| [**Digital Library Management**](https://github.com/sukumar-cloud/library-management) | Java Swing • JDBC • MySQL | Desktop CRUD app with Dockerized database and Maven automation. |
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="coding animation"/>
@@ -88,9 +104,9 @@
 
 ### 🎯 2025 Goals
 - 💼 Secure a **Software Developer Internship / SDE Role**  
-- 🧠 Contribute to **Open Source Projects (Spring Boot & React)**  
-- ☁️ Master **Cloud Deployments** with Docker & Render  
-- 📚 Learn **System Design** and **Clean Architecture** principles  
+- 📚 Contribute to **Open Source (Spring Boot / React)**  
+- ☁️ Master **Cloud Deployments** & **System Design**  
+- 🚀 Build **Real-time Web Apps** with Firebase & WebSockets  
 
 ---
 
@@ -107,7 +123,6 @@
 ---
 
 ### 📫 Connect With Me
-
 <p align="center">
   <a href="https://linkedin.com/in/sukumar-r-a-b83b7429b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
