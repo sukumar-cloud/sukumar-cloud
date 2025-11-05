@@ -3,10 +3,6 @@
 <h3 align="center">🚀 Aspiring Full Stack Developer | Java • React • Node.js • Spring Boot</h3>
 
 <p align="center">
-  <img src="https://github.com/sukumar-cloud/sukumar-cloud/assets/your-id/banner.gif" alt="banner" width="100%"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/sukumar-cloud">
     <img src="https://komarev.com/ghpvc/?username=sukumar-cloud&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
   </a>
@@ -16,6 +12,10 @@
   <a href="mailto:sukumaramaravathi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="400" alt="developer animation">
 </p>
 
 ---
@@ -79,10 +79,6 @@
 | [**Book Review Platform**](https://github.com/sukumar-cloud/book-review-platform) | React • Node.js • MongoDB | Full-stack CRUD app with JWT, search, and pagination. |
 | [**Digital Library Management**](https://github.com/sukumar-cloud/library-management) | Java Swing • JDBC • MySQL | Desktop CRUD app with Dockerized database and Maven automation. |
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="coding animation"/>
-</p>
-
 ---
 
 ### 📊 GitHub Stats
@@ -111,7 +107,6 @@
 ---
 
 ### 🧩 Fun Visuals
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 </p>
